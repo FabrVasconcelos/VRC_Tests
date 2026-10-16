@@ -114,6 +114,8 @@
         "[V] Qual a melhor cantada que você já usou e funcionou?",
         "[V] Você já perdeu a cabeça de ciúme e fez algo de que se arrependeu?",
         "[V] Qual é a sua maior tentação?",
+        "[V] Você pegaria ou já pegou <player>?",
+        "[V] Você tem <player>, <player> ou <player>, escolha quem mata, casa e come;",
         "[V] Qual é a coisa mais picante que você já escreveu em um chat?",
         "[V] Você ficaria com alguém deste mundo se a pessoa te chamasse agora?",
         "[V] Qual foi a última coisa que fez você corar?",
@@ -121,6 +123,7 @@
         "[V] Se você tivesse que dar uma nota de 0 a 10 para o seu beijo, qual seria?",
         "[V] Qual a sua opinião sobre ficar sem compromisso?",
         "[D] Dê um beijo (na bochecha ou na mão) em <player>.",
+        "[D] Ultilize qualquer modo para ameaçar <player> \"não tenha dó\"",
         "[D] Faça um elogio bem ousado para <player>.",
         "[D] Mande um beijo no ar para <player> olhando nos olhos.",
         "[D] Sente no colo de <player> por 30 segundos, se a pessoa permitir.",
@@ -227,6 +230,7 @@
         "[D] Deixe o grupo votar: quem é o(a) mais charmoso(a)? Faça um elogio para essa pessoa.",
         "[D] Deixe o grupo votar: qual dos seus avatares fica mais sexy. Use-o por 3 turnos.",
         "[D] Peça a <player> para decidir o seu próximo desafio, valendo qualquer coisa não ofensiva.",
+        "[D] Beba <range[1-5]> shots",
         "[D] Mande um áudio sussurrado para <player> dizendo o que mais admira nele(a).",
         "[D] Troque de lugar com <player> e ande como ele(a) por 1 minuto.",
         "[D] Abrace alguém aleatório do mundo e diga \"você é demais\".",
@@ -234,6 +238,13 @@
         "[D] Passe o turno dizendo só \"sim, senhor(a)\" para tudo que <player> perguntar.",
         "[D] Sente ao lado de <player> e fique com a cabeça no ombro dele(a) até a próxima rodada.",
         "[D] Fique abraçado com <player> pelos próximos 2 turnos.",
-        "[D] Dance lento com <player> ao som de uma música romântica."
+        "[D] Dance lento com <player> ao som de uma música romântica.",
+        "[D] Chegue perto de <player> e tente-o fazer ficar sem graça, se não conseguir, pague outro desafio.",
+        "[D] Palavra banida, <player> escolhe uma palavra que você não pode falar por 2 rodadas. Se falar, paga outro desafio.",
+        "[D] Não existe motivo para ficar bravo, toda vez que elevar a voz, beba um shot",
+        "[D] Use um personagem com SPS, deixe o seu personagem o mais pelado possivel até sua próxima vez, se não tiver SPS, use o avatar mais sensual que tiver.",
+        "[D] Não se esconda, mostre ao grupo o pesonagem com seu fetiche mais estranho, se não tiver, use o avatar mais estranho que tiver.",
+        "[D] Switch, mude de atitude em relação a <player>, se você gosta de ser mais submisso seja dominante e vice-versa, faça um mini roleplay com ele.",
+        "[D] Use um personagem que reflita o contrário do seu genero atual, se seu personagem é masculino pegue um personagem mais feminino e vice-versa, se não tiver, use o avatar mais diferente que tiver."
     ]
 }
